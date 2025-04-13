@@ -1,3 +1,9 @@
+# Environment variables
+.env
+
+# AWS credentials
+.aws/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
